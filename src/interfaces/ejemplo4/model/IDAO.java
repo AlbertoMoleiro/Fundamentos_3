@@ -1,2 +1,5 @@
-package interfaces.ejemplo4.model;public interface IDAO {
+package interfaces.ejemplo4.model;
+
+public interface IDAO {
+    String insertar(Cliente cliente);
 }

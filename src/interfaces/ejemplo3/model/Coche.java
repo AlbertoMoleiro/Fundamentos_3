@@ -1,4 +1,4 @@
-package com.softtek.funadmentos.model;
+package interfaces.ejemplo3.model;
 
 public class Coche {
     private String matricula;

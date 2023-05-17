@@ -1,2 +1,4 @@
-package interfaces.ejemplo.model;public class Helicoptero {
+package interfaces.ejemplo.model;
+
+public class Helicoptero extends Avion{
 }

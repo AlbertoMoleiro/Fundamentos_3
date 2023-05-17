@@ -1,2 +1,4 @@
-package interfaces.ejemplo.model;public class Kriptoniano {
+package interfaces.ejemplo.model;
+
+public class Kriptoniano extends Animal {
 }
